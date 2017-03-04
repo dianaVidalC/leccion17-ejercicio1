@@ -1,14 +1,8 @@
-body {
+bbody {
   padding-top: 40px;
   padding-bottom: 40px;
   background-color: #eee;
   color: #4A235A;
   text-align: center;
   margin: auto;
-
-}
-span{
-  font-weight: 900;
-  font-style: oblique;
-  color: #F11E0D;
 }
